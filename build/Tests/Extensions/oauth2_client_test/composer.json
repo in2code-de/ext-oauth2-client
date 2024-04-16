@@ -18,7 +18,7 @@
         "issues": "https://github.com/waldhacker/ext-oauth2-client/issues"
     },
     "require": {
-        "waldhacker/typo3-oauth2-client": "*@dev"
+        "in2code/typo3-oauth2-client-fork": "*@dev"
     },
     "autoload": {
         "psr-4": {
